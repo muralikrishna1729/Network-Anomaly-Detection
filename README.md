@@ -1,4 +1,4 @@
-# Network Intrusion Anomaly Detection with DBSCAN
+# Network Intrusion Anomaly Detection
 
 Unsupervised anomaly detection on network traffic using density-based clustering (DBSCAN), evaluated against a labeled benchmark dataset to measure how well it catches rare and previously unseen attack patterns.
 
